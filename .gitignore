@@ -1,0 +1,8 @@
+#state file
+*.tfstate
+*.tfstate.*
+
+#dir
+.terraform/*
+
+*.tfplan
